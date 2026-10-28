@@ -1,0 +1,6 @@
+{
+  "name": "AllForOne — Nền Tảng Luyện Thi Công Nghệ Toán · Lý · Tin",
+  "description": "Đấu trường học thuật và luyện thi liên môn Toán - Vật lý - Tin học chuẩn hóa THPT 2026. Ứng dụng AI phân tích bẫy tư duy, tối ưu hóa điểm số và xếp hạng Elo thời gian thực.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
